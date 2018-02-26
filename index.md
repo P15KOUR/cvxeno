@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## xenofon kourtzis
 
 You can use the [editor on GitHub](https://github.com/P15KOUR/cvxeno/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 

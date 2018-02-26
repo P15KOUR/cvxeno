@@ -1,14 +1,11 @@
 ## xenofon kourtzis
-i have finish high  schooll
-i am studing swcience of informatics
+i have finish high  schooll<br/>
+i am studing swcience of informatics<br/>
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+i currently work part time in a coffee shop
 
-```markdown
-Syntax highlighted code block
-
-# paok
+# 
 ## Header 2
 ### Header 3
 
